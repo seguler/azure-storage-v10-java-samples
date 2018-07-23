@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="com.microsoft.azure:azure-storage-blob:10.0.1-Preview" type="repository">
+    <properties maven-id="com.microsoft.azure:azure-storage-blob:10.0.1-Preview" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-storage-blob-10.0.1-Preview.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/client-runtime-2.0.0-beta3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-handler-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-codec-http-4.1.25.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-module-jaxb-annotations-2.8.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-3.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxjava-2.1.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-annotations-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
